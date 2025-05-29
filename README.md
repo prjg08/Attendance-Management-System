@@ -1,2 +1,4 @@
 # Attendance-Management-System
-Attendance Manegement System that utilises facial recognition to automate attendance tracking.
+This project automates attendance marking using face recognition. Built with Python, OpenCV, and face_recognition, it captures and recognizes faces via webcam, then records attendance in subject-wise and master CSV logs. The system ensures accuracy, prevents proxy attendance, and provides a simple interface for managing records.
+
+
