@@ -1,2 +1,2 @@
 # Attendance-Management-System
-Attendance Manegement System that utilises facial recognition to automate attendance tracking
+Attendance Manegement System that utilises facial recognition to automate attendance tracking.
